@@ -32,3 +32,5 @@ public interface SimpleStack {
 
 
 // comment for issue #2
+
+// comment for issue 3
