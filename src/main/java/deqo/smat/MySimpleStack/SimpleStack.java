@@ -29,3 +29,6 @@ public interface SimpleStack {
     public Item pop() throws EmptyStackException;
 
 }
+
+
+// comment for issue #2
